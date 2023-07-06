@@ -1,1 +1,2 @@
 # Hangman_Game_Python_Project
+This is one of the simplest and easy level game whose behind the code is written in python programming language.The hangman game provides you 6 lives to guess a correct word that has been already declared by software randomly.For each wrong guess,you lose a live.If all the blanks are filled then game is over and you win.If atleast one of the blanks remain empty or you lose all of your lives then you will lose the game.Here is the code behind the game.Programmer can make it interesting by adding hangman_images as well.
